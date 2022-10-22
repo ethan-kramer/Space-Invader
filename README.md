@@ -1,6 +1,6 @@
 # Space-Invader
-Space Invader game in python using pygame.
-test
+Space Invader game in python using pygame.<br>
+The player moves side to side using arrow keys and shoots randomly spawning enemies using the space bar. When an enemy is hit, they respawn back at the top of the screen, and the score is incremented. When an enemy gets too close to the player the game is over and the final score is printed.<br>
 
 # Game-Play
 ![action1](https://user-images.githubusercontent.com/62119661/197320238-0c72b46b-fbf1-404d-a488-b4edb557ed71.png)
